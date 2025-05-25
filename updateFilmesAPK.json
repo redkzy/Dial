@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "3.0.3",
+  "versionCode": 0,
+  "versionName": "0",
   "apkSize": 40,
   "enabledDark": true,
   "forceUp": true,
@@ -10,5 +10,5 @@
     "",
     ""
   ],
-  "apkUrl": "https://www.dropbox.com/scl/fi/3t18fb2afwxwn6lr7wosx/Freecine_V3.0.2.apk?rlkey=681q315ntsak0p5czg8c4ss6d&st=65r32u7u&dl=1"
+  "apkUrl": "https://www.dropbox.com/scl/fi/3t18fb2afwxwn6lr7wosx/Freecine_V3.0.2.apk?rlkey=681q315ntsak0p5czg8c4ss6d&st=65r32u7u&dl=0"
 }
