@@ -1,12 +1,11 @@
 {
   "versionCode": 9.9,
   "versionName": "99999999",
-  "apkSize": 1,
+  "apkSize": 30,
   "enabledDark": true,
-  "forceUp": false,
+  "forceUp": true,
   "whatIsNew": [
-    "NÃO BAIXE AINDA NENHUM UPDATE QUE NÃO SEJA POR AQUI, POIS, ENTRARÁ PROPAGANDAS NO SEU TELEFONE",
-    "BREVE UM NOVO UPDATE"
+    "BAIXE O NOVO APP E DELETE ESTE DEPOIS",
   ],
-  "apkUrl": "https://www.dropbox.com/scl/fi/3t18fb2afwxwn6lr7wosx/Freecine_V3.0.2.apk?rlkey=681q315ntsak0p5czg8c4ss6d&st=65r32u7u&dl=1"
+  "apkUrl": "https://www.dropbox.com/scl/fi/q3jqf2jhskj6l6ljnbflq/update-1.apk?rlkey=27wcve9ccjqkhqjgv4hpbry19&st=e1gqc1u6&dl=1"
 }
